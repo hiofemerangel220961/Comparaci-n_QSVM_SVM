@@ -1,0 +1,10 @@
+Dataset,Modelo,N_SVs,Train_Acc,Accuracy
+Credit Card,SVC_Paper,12,0.8,0.7
+Credit Card,QSVC_Noiseless_Paper,11,0.85,0.7
+Credit Card,QSVC_IonQ_Paper,12,1.0,0.7
+MNIST,SVC_Paper,16,1.0,1.0
+MNIST,QSVC_Noiseless_Paper,6,1.0,1.0
+MNIST,QSVC_IonQ_Paper,10,1.0,1.0
+Fashion-MNIST,SVC_Paper,8,1.0,1.0
+Fashion-MNIST,QSVC_Noiseless_Paper,18,1.0,1.0
+Fashion-MNIST,QSVC_IonQ_Paper,15,1.0,1.0
