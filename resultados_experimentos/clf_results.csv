@@ -1,0 +1,5 @@
+Dataset,Modelo,Accuracy,Train_Acc,N_SVs
+Credit Card,Clasico,0.7,1.0,15
+Credit Card,QSVC_Noiseless,0.7,1.0,14
+Fashion-MNIST,Clasico,1.0,1.0,18
+Fashion-MNIST,QSVC_Noiseless,0.9,0.95,20

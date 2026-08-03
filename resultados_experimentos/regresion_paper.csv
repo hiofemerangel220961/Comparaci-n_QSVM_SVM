@@ -1,0 +1,4 @@
+Dataset,Modelo,R2,RMSE
+Materiales,SVR_Paper,0.728,0.276
+Materiales,QSVR_Noiseless_Paper,0.703,0.288
+Materiales,QSVR_IonQ_Paper,0.628,0.322
