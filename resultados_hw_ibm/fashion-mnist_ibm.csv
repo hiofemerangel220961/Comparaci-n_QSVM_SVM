@@ -1,0 +1,2 @@
+Dataset,Backend,N_Qubits,Lambda,N_Train,N_Test,Shots,C,Accuracy_test,Accuracy_train,Precision,Recall,F1,Balanced_Acc,Alignment_hw_nl,T_Train_s,T_Inf_s,Depth_orig,Depth_transpiled
+Fashion-MNIST,ibm_marrakesh,4,1.0,20,10,500,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.9982428449432947,38.86481149995234,39.55167259997688,7,17

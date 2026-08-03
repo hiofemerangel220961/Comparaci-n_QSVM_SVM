@@ -1,0 +1,36 @@
+# Datasets (demasiado grandes para GitHub)
+/creditcard.csv
+superconductivty+data/
+fashion-mnist-master/
+*.idx3-ubyte
+*.idx1-ubyte
+
+# Archivos generados
+*.docx
+*.pptx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Credenciales
+apikey.json
+
+# Carpetas de backup locales (no forman parte del repo)
+resultados_hw_ibm_reducido/
+resultados_experimentos_backup/
+
+# PDF del paper (copyright)
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
